@@ -3,87 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://xinhe-lab.github.io/journal-club/20180206-victoria-2015-cell/</loc>
+    <loc>https://liangyy.github.io/journal-club/</loc>
+    <lastmod>2018-02-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://liangyy.github.io/journal-club/20180206-victoria-2015-cell/</loc>
     <lastmod>2018-02-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://xinhe-lab.github.io/journal-club/20171205-burgess-2016-nrg/</loc>
+    <loc>https://liangyy.github.io/journal-club/post/</loc>
+    <lastmod>2018-02-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://liangyy.github.io/journal-club/tags/</loc>
+    <lastmod>2018-02-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://liangyy.github.io/journal-club/topics/</loc>
+    <lastmod>2018-02-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://liangyy.github.io/journal-club/tags/epistasis/</loc>
+    <lastmod>2018-02-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://liangyy.github.io/journal-club/topics/genetics/</loc>
+    <lastmod>2018-02-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://liangyy.github.io/journal-club/20171205-burgess-2016-nrg/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://xinhe-lab.github.io/journal-club/20171205-seurat-2015-nbt/</loc>
+    <loc>https://liangyy.github.io/journal-club/20171205-seurat-2015-nbt/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://xinhe-lab.github.io/journal-club/20171129-uchg-compbio-jc/</loc>
+    <loc>https://liangyy.github.io/journal-club/topics/regulatory-genomics/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://liangyy.github.io/journal-club/tags/regulatory-sequences/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://liangyy.github.io/journal-club/topics/single-cell/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://liangyy.github.io/journal-club/tags/single-cell-rna-seq/</loc>
+    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://liangyy.github.io/journal-club/20171129-uchg-compbio-jc/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://xinhe-lab.github.io/journal-club/tags/epistasis/</loc>
-    <lastmod>2018-02-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xinhe-lab.github.io/journal-club/topics/genetics/</loc>
-    <lastmod>2018-02-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xinhe-lab.github.io/journal-club/</loc>
-    <lastmod>2018-02-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xinhe-lab.github.io/journal-club/people/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xinhe-lab.github.io/journal-club/post/</loc>
-    <lastmod>2018-02-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xinhe-lab.github.io/journal-club/topics/regulatory-genomics/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xinhe-lab.github.io/journal-club/tags/regulatory-sequences/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xinhe-lab.github.io/journal-club/topics/single-cell/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xinhe-lab.github.io/journal-club/tags/single-cell-rna-seq/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xinhe-lab.github.io/journal-club/tags/</loc>
-    <lastmod>2018-02-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://xinhe-lab.github.io/journal-club/topics/</loc>
-    <lastmod>2018-02-06T00:00:00+00:00</lastmod>
+    <loc>https://liangyy.github.io/journal-club/people/</loc>
     <priority>0</priority>
   </url>
   

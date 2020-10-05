@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Single Cell on HGComputational Journal Club</title>
-    <link>https://xinhe-lab.github.io/journal-club/topics/single-cell/</link>
-    <description>Recent content in Single Cell on HGComputational Journal Club</description>
+    <title>single cell on HGComputational Journal Club</title>
+    <link>https://liangyy.github.io/journal-club/topics/single-cell/</link>
+    <description>Recent content in single cell on HGComputational Journal Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>gaow@uchicago.edu (Gao Wang)</managingEditor>
@@ -11,15 +11,15 @@
     <copyright>(c) 2017 Copyright Human Genetics Computational Group | The University of Chicago</copyright>
     <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://xinhe-lab.github.io/journal-club/topics/single-cell/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://liangyy.github.io/journal-club/topics/single-cell/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Spatial reconstruction of single-cell gene expression data</title>
-      <link>https://xinhe-lab.github.io/journal-club/20171205-seurat-2015-nbt/</link>
+      <link>https://liangyy.github.io/journal-club/20171205-seurat-2015-nbt/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>gaow@uchicago.edu (Gao Wang)</author>
-      <guid>https://xinhe-lab.github.io/journal-club/20171205-seurat-2015-nbt/</guid>
+      <guid>https://liangyy.github.io/journal-club/20171205-seurat-2015-nbt/</guid>
       <description>Problem  infer spatial locations of various cell types which will determine the cell fate and behavior
  RNA staining only assays a small number of transcripts and RNA-seq can measure the global gene expression, but separates the cells from their native spatial context.
  they develop Seurat to localize the cells by integrating single cell RNA-seq data and in situ RNA patterns.

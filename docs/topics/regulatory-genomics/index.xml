@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Regulatory Genomics on HGComputational Journal Club</title>
-    <link>https://xinhe-lab.github.io/journal-club/topics/regulatory-genomics/</link>
-    <description>Recent content in Regulatory Genomics on HGComputational Journal Club</description>
+    <title>regulatory genomics on HGComputational Journal Club</title>
+    <link>https://liangyy.github.io/journal-club/topics/regulatory-genomics/</link>
+    <description>Recent content in regulatory genomics on HGComputational Journal Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>gaow@uchicago.edu (Gao Wang)</managingEditor>
@@ -11,15 +11,15 @@
     <copyright>(c) 2017 Copyright Human Genetics Computational Group | The University of Chicago</copyright>
     <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://xinhe-lab.github.io/journal-club/topics/regulatory-genomics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://liangyy.github.io/journal-club/topics/regulatory-genomics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Regulatory elements: Putting enhancers into context</title>
-      <link>https://xinhe-lab.github.io/journal-club/20171205-burgess-2016-nrg/</link>
+      <link>https://liangyy.github.io/journal-club/20171205-burgess-2016-nrg/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>gaow@uchicago.edu (Gao Wang)</author>
-      <guid>https://xinhe-lab.github.io/journal-club/20171205-burgess-2016-nrg/</guid>
+      <guid>https://liangyy.github.io/journal-club/20171205-burgess-2016-nrg/</guid>
       <description>Regulatory elements: Putting enhancers into context
 Principle of suboptimization The enhancer consists of low-affinity TF binding sites in a suboptimal syntax, in terms of flanking nucleotides and spacing between the sites. Optimizing the TF binding affinities can lead to ectopic expression.
 Experiment In sea squirt, 15 synthetic enhancers consisting of 2 ETS binding sites and a ZicL binding site. Only 2 show activities. Further manipulation confirm key roles for binding site orientation, spacing and flanking nucleotides.</description>

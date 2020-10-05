@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HGComputational Journal Club</title>
-    <link>https://xinhe-lab.github.io/journal-club/tags/</link>
+    <link>https://liangyy.github.io/journal-club/tags/</link>
     <description>Recent content in Tags on HGComputational Journal Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -11,33 +11,33 @@
     <copyright>(c) 2017 Copyright Human Genetics Computational Group | The University of Chicago</copyright>
     <lastBuildDate>Tue, 06 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://xinhe-lab.github.io/journal-club/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://liangyy.github.io/journal-club/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Epistasis</title>
-      <link>https://xinhe-lab.github.io/journal-club/tags/epistasis/</link>
+      <title>epistasis</title>
+      <link>https://liangyy.github.io/journal-club/tags/epistasis/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
       <author>gaow@uchicago.edu (Gao Wang)</author>
-      <guid>https://xinhe-lab.github.io/journal-club/tags/epistasis/</guid>
+      <guid>https://liangyy.github.io/journal-club/tags/epistasis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Regulatory Sequences</title>
-      <link>https://xinhe-lab.github.io/journal-club/tags/regulatory-sequences/</link>
+      <title>regulatory sequences</title>
+      <link>https://liangyy.github.io/journal-club/tags/regulatory-sequences/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>gaow@uchicago.edu (Gao Wang)</author>
-      <guid>https://xinhe-lab.github.io/journal-club/tags/regulatory-sequences/</guid>
+      <guid>https://liangyy.github.io/journal-club/tags/regulatory-sequences/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Single Cell Rna Seq</title>
-      <link>https://xinhe-lab.github.io/journal-club/tags/single-cell-rna-seq/</link>
+      <title>single cell RNA-seq</title>
+      <link>https://liangyy.github.io/journal-club/tags/single-cell-rna-seq/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>gaow@uchicago.edu (Gao Wang)</author>
-      <guid>https://xinhe-lab.github.io/journal-club/tags/single-cell-rna-seq/</guid>
+      <guid>https://liangyy.github.io/journal-club/tags/single-cell-rna-seq/</guid>
       <description></description>
     </item>
     

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on HGComputational Journal Club</title>
-    <link>https://xinhe-lab.github.io/journal-club/topics/</link>
+    <link>https://liangyy.github.io/journal-club/topics/</link>
     <description>Recent content in Topics on HGComputational Journal Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -11,33 +11,33 @@
     <copyright>(c) 2017 Copyright Human Genetics Computational Group | The University of Chicago</copyright>
     <lastBuildDate>Tue, 06 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://xinhe-lab.github.io/journal-club/topics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://liangyy.github.io/journal-club/topics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Genetics</title>
-      <link>https://xinhe-lab.github.io/journal-club/topics/genetics/</link>
+      <title>genetics</title>
+      <link>https://liangyy.github.io/journal-club/topics/genetics/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
       <author>gaow@uchicago.edu (Gao Wang)</author>
-      <guid>https://xinhe-lab.github.io/journal-club/topics/genetics/</guid>
+      <guid>https://liangyy.github.io/journal-club/topics/genetics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Regulatory Genomics</title>
-      <link>https://xinhe-lab.github.io/journal-club/topics/regulatory-genomics/</link>
+      <title>regulatory genomics</title>
+      <link>https://liangyy.github.io/journal-club/topics/regulatory-genomics/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>gaow@uchicago.edu (Gao Wang)</author>
-      <guid>https://xinhe-lab.github.io/journal-club/topics/regulatory-genomics/</guid>
+      <guid>https://liangyy.github.io/journal-club/topics/regulatory-genomics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Single Cell</title>
-      <link>https://xinhe-lab.github.io/journal-club/topics/single-cell/</link>
+      <title>single cell</title>
+      <link>https://liangyy.github.io/journal-club/topics/single-cell/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
       <author>gaow@uchicago.edu (Gao Wang)</author>
-      <guid>https://xinhe-lab.github.io/journal-club/topics/single-cell/</guid>
+      <guid>https://liangyy.github.io/journal-club/topics/single-cell/</guid>
       <description></description>
     </item>
     

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Epistasis on HGComputational Journal Club</title>
-    <link>https://xinhe-lab.github.io/journal-club/tags/epistasis/</link>
-    <description>Recent content in Epistasis on HGComputational Journal Club</description>
+    <title>epistasis on HGComputational Journal Club</title>
+    <link>https://liangyy.github.io/journal-club/tags/epistasis/</link>
+    <description>Recent content in epistasis on HGComputational Journal Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>gaow@uchicago.edu (Gao Wang)</managingEditor>
@@ -11,15 +11,15 @@
     <copyright>(c) 2017 Copyright Human Genetics Computational Group | The University of Chicago</copyright>
     <lastBuildDate>Tue, 06 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://xinhe-lab.github.io/journal-club/tags/epistasis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://liangyy.github.io/journal-club/tags/epistasis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Natural Variation in Gene Expression Modulates the Severity of Mutant Phenotypes</title>
-      <link>https://xinhe-lab.github.io/journal-club/20180206-victoria-2015-cell/</link>
+      <link>https://liangyy.github.io/journal-club/20180206-victoria-2015-cell/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
       <author>gaow@uchicago.edu (Gao Wang)</author>
-      <guid>https://xinhe-lab.github.io/journal-club/20180206-victoria-2015-cell/</guid>
+      <guid>https://liangyy.github.io/journal-club/20180206-victoria-2015-cell/</guid>
       <description>Biological question Mutation in monogenic disease can cause disease phenotype at various level of severity.
 For instance, cystic fiberosis (CF) is caused by a single gene, CFTR, the homozygous individuals with exactly the same allele $\delta$F508 present a wide range of clinical symptoms. It is due to &amp;laquo;modifier genes&amp;raquo;, MBL2 and TGF-$\beta$.
 Such observation is general in many Mendelian diseases. Namely, the disease is predictable but the severity of it is highly unknown due to the variation of genetic background.</description>
