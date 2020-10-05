@@ -29,7 +29,7 @@ paginate = 10
 paginatePath = "page"
 
 # Enable Disqus integration
-disqusShortname = "comment"
+disqusShortname = "https-liangyy-github-io-journal-club"
 
 
 [permalinks]
