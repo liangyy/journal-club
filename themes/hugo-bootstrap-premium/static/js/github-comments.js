@@ -35,9 +35,9 @@ function DoGithubComments(comment_id, page_id)
 
     $(document).ready(function ()
     {
-        // $.getJSON(api_issue_url, function(data) {
-        //     NbComments = data.comments;
-        // });
+        $.getJSON(api_issue_url, function(data) {
+            NbComments = data.comments;
+        });
 
         $.ajax(api_comments_url, {
             headers: {Accept: "application/vnd.github.v3.html+json"},
